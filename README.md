@@ -4,4 +4,4 @@
 <p align="center"><a href="https://ttechnical.github.io/ImageResizer/">Click and Use</a></p>
 
 <img src="ImageResizer.jpg" alt="Image Resizer" class="center">
-<p align="center">https://ttechnical.github.io/ImageResizer/</p>
+<p align="center">https://ttechnical.github.io/ImageResizer</p>
